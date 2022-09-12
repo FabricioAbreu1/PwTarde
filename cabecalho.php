@@ -42,6 +42,10 @@
             <li>
                 <a href="./portifolio.php">Portifólio</a>
             </li>
+
+            <li>
+                <a href="./cadastro.php">Cadastro</a>
+            </li>
             
         </ul>
     </nav>
