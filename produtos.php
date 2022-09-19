@@ -24,6 +24,7 @@
 
 </div>
                 <div class="col-4"><input type="text" class="form-control" name="textoPesquisado" /></div>
+                
                 <div class="col-2"> <button class="btn btn-primary">Pesquisar</button></div>
 
 
