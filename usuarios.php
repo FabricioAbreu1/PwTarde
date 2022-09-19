@@ -1,10 +1,10 @@
 <?php include "cabecalho.php";?>
 
+
 <div class="card">
-<div class="card-header bg-primary text-white">Clientes</div>
+    <div class="card-header bg-primary text-white">Usuários</div>
     <div class="card-body">
         <div class="row">
-
         <div class="col-2">
 
                 <button class="btn btn-success">Novo Usuário</button>
@@ -24,12 +24,12 @@
                 </select>
 
            </div>
+
                 <div class="col-4"><input type="text" class="form-control" name="textoPesquisado" /></div>
                 <div class="col-2"><button class="btn btn-primary">Pesquisar</button></div>
-
-</div>
-</div>
-</div>
+        </div>
+      </div>
+  </div>
 
 <table class="table table-hover table-striped">
   <thead>
@@ -69,7 +69,5 @@
 ?>
   </tbody>
 </table>
-
-
 
 <?php include "rodape.php"; ?>
