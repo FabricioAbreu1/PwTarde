@@ -32,10 +32,14 @@
             <li><a class="dropdown-item" href="#">Cadastrar Clientes</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Cadastrar Produtos</a></li>
+          
           </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link " href ="./produtos.php">Produtos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href ="./disciplinas.php">Disciplinas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link " href ="./clientes.php">Clientes</a>
